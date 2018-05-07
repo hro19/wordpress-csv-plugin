@@ -1,0 +1,8 @@
+【WordPress エクセルを使用してを記事（カスタム投稿タイプ）データをDBに流し込む】
+
+●使用するプラグイン
+・Really Simple CSV Importer
+・RS CSV Importer Media Add-On
+・WCE With Post Type（有料プラグイン）
+・WP CSV Exporter（有料プラグイン）
+
